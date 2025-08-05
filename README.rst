@@ -40,6 +40,7 @@ and the documentation's `Getting Started Guide`_ to start developing.
 
 Community Support
 Add readme line
+Add another readme line
 *****************
 
 Community support is provided via mailing lists and Discord; see the Resources
