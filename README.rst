@@ -39,6 +39,7 @@ and the documentation's `Getting Started Guide`_ to start developing.
 .. start_include_here
 
 Community Support
+Add readme line
 *****************
 
 Community support is provided via mailing lists and Discord; see the Resources
